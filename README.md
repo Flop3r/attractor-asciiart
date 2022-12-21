@@ -15,7 +15,7 @@ $$
 \end{align}
 $$
 
-By deafult print resolution is set to x = 40, y = 25. You can change it by giving command-line arguments (arg1: x, arg2: y). c paramenter is also changeable. By giving arguments (arg3: a) real part and (arg4: b) imaginary part of complex num.
+By deafult print resolution is set to x = 40, y = 25. You can change it by giving command-line arguments (arg1: x, arg2: y). Paramenter "c" is changeable. By giving arguments you can change real part and imaginary part of "c" (arg3: a, arg4: b)
 
 $$
 c = a + b \cdot i
