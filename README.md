@@ -1,5 +1,5 @@
 # ATTRACTOR-ASCIIART
-Scripts that creates simple ascii-art attractor of complex number set:
+Scripts that creates in terminal, simple ascii-art attractor of complex number set:
 
 $$
 c = 0.2 + 0.752i
